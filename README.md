@@ -1,2 +1,2 @@
 # NoShow_Appointments
-Data Analysis
+This repository contains exploratory data analysis for No-Show Appointments
